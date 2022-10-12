@@ -19,4 +19,3 @@ describe('Home Page', () => {
     cy.contains('Providing the Best Construction Workers for Your Projects').should('have.text','Providing the Best Construction Workers for Your Projects')    
   })
 })
-
